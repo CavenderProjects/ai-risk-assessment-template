@@ -1,23 +1,23 @@
 AI Risk Assessment Template
 
-Status: In Progress — Target completion Q3 2026
+Status: In Progress: Target completion Q3 2026
 
-A practitioner-built framework for assessing AI risk in regulated environments. Maps NIST AI RMF 1.0 + ISO/IEC 42001 controls to GRC language enterprises already use — so compliance teams, auditors, and risk managers can evaluate AI systems without first becoming AI engineers.
+A practitioner-built framework for assessing AI risk in regulated environments. Maps NIST AI RMF 1.0 + ISO/IEC 42001 controls to GRC language enterprises already use so compliance teams, auditors, and risk managers can evaluate AI systems without having to be AI engineers.
 
-The Problem This Solves
-Most AI risk assessment frameworks are written for one of two audiences: AI engineers who understand the technology but not the regulatory exposure, or compliance theorists who understand the frameworks but not how to operationalize them.
+The Problem:
+Current AI risk assessment frameworks are written for one of two audiences: AI engineers who understand the technology but not the regulatory exposure, or compliance theorists who understand the frameworks but not how to operationalize them.
 Neither works in a regulated environment with real audit timelines, real vendor contracts, and real boards asking real questions.
-This template is built for the people in the middle — GRC practitioners, security managers, and risk officers who need to assess AI systems using the frameworks they already know and the audit language they already speak.
+This template is built for the people in the middle, GRC practitioners, security managers, and risk officers who need to assess AI systems using the frameworks they know and the audit language they speak.
 
-What It Will Include
+Will Include
 Model Risk Translation Table
 Maps NIST AI RMF GOVERN, MAP, MEASURE, and MANAGE functions to ISO/IEC 42001 controls and to the GRC control language enterprises already use (NIST CSF, ISO 27001, SOX-adjacent frameworks). Eliminates the translation step that slows down every regulated-environment AI assessment.
 AI Risk Assessment Template (filled example)
-A completed sample assessment for a hypothetical enterprise AI deployment — showing how to document training data provenance, drift monitoring, edge case scope, and accountability ownership in audit-ready language.
+A completed sample assessment for a hypothetical enterprise AI deployment showing how to document training data provenance, drift monitoring, edge case scope, and accountability ownership in audit-ready language.
 AI Vendor Risk Questionnaire Module
 25-question due diligence framework for evaluating third-party AI vendors. Addresses the gap left by pre-2023 vendor contracts that predate AI capability: training data disclosure, model update notification, contractual audit rights, and liability allocation.
 Regulatory Exposure Mapping
-Maps AI deployment scenarios to specific regulatory exposure — HIPAA, NYDFS, GDPR, CPRA, EU AI Act, PCI-DSS — so risk-acceptance decisions are made with full awareness of what's at stake.
+Maps AI deployment scenarios to specific regulatory exposure: HIPAA, NYDFS, GDPR, CPRA, EU AI Act, PCI-DSS — so risk-acceptance decisions are made with full awareness of what's at stake.
 
 Intended Structure
 ai-risk-assessment-template/
